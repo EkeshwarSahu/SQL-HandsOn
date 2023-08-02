@@ -1,5 +1,5 @@
 # SQL-HandsOn
-1.Retail-Mart-Management
+1. [Retail-Mart-Management].(retail_mngmt.sql)
 
 Project Description:
 
