@@ -1,5 +1,5 @@
 # SQL-HandsOn
-1. [Retail-Mart-Management].(retail_mngmt.sql)
+1.[Retail-Mart-Management]([link_to_project_repository](https://github.com/EkeshwarSahu/SQL-HandsOn/blob/main/retail_mngmt.sql)
 
 Project Description:
 
